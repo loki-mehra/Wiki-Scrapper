@@ -1,8 +1,7 @@
 # Wiki-Scrapper
 Simple NodeJS wikipedia scrapper
 
-*To run*  
+**To run**  
   - npm install
   - node servr.js
-  - open url **localhost:8081/scrape**
-  
+  - open url *localhost:8081/scrape*
